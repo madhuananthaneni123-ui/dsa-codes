@@ -1,0 +1,14 @@
+import java.lang.*;
+import java.util.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		// your code goes here
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+	    System.out.println(10-n);
+
+	}
+}
